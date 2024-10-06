@@ -1,3 +1,5 @@
+![CI/CD](https://github.com/FaizalSandanampusi/DataLoader/workflows/Python%20Tests/badge.svg?label=successfulcolor=bluetimestamp=1728238972)
+
 # DataLoader Package
 
 
@@ -177,3 +179,7 @@ The DataLoader package provides a comprehensive solution for loading and managin
 
 =======
 
+
+## Test Results
+
+![Test Results](tests/test_results.png)
